@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BirTajpuriya
+-  Hello 🌼
 - 🌱 I’m currently learning ...
 
 <!---
